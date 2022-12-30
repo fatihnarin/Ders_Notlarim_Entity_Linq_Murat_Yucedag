@@ -1,0 +1,15 @@
+D:\BTKAKADEMİ\Projeler\Murat Yücedağ\Entity Framework\EntityORnek\bin\Debug\EntityORnek.exe.config
+D:\BTKAKADEMİ\Projeler\Murat Yücedağ\Entity Framework\EntityORnek\bin\Debug\EntityORnek.exe
+D:\BTKAKADEMİ\Projeler\Murat Yücedağ\Entity Framework\EntityORnek\bin\Debug\EntityORnek.pdb
+D:\BTKAKADEMİ\Projeler\Murat Yücedağ\Entity Framework\EntityORnek\bin\Debug\EntityFramework.dll
+D:\BTKAKADEMİ\Projeler\Murat Yücedağ\Entity Framework\EntityORnek\bin\Debug\EntityFramework.SqlServer.dll
+D:\BTKAKADEMİ\Projeler\Murat Yücedağ\Entity Framework\EntityORnek\bin\Debug\EntityFramework.xml
+D:\BTKAKADEMİ\Projeler\Murat Yücedağ\Entity Framework\EntityORnek\bin\Debug\EntityFramework.SqlServer.xml
+D:\BTKAKADEMİ\Projeler\Murat Yücedağ\Entity Framework\EntityORnek\obj\Debug\EntityORnek.csproj.AssemblyReference.cache
+D:\BTKAKADEMİ\Projeler\Murat Yücedağ\Entity Framework\EntityORnek\obj\Debug\EntityORnek.Form1.resources
+D:\BTKAKADEMİ\Projeler\Murat Yücedağ\Entity Framework\EntityORnek\obj\Debug\EntityORnek.Properties.Resources.resources
+D:\BTKAKADEMİ\Projeler\Murat Yücedağ\Entity Framework\EntityORnek\obj\Debug\EntityORnek.csproj.GenerateResource.cache
+D:\BTKAKADEMİ\Projeler\Murat Yücedağ\Entity Framework\EntityORnek\obj\Debug\EntityORnek.csproj.CoreCompileInputs.cache
+D:\BTKAKADEMİ\Projeler\Murat Yücedağ\Entity Framework\EntityORnek\obj\Debug\EntityORnek.csproj.CopyComplete
+D:\BTKAKADEMİ\Projeler\Murat Yücedağ\Entity Framework\EntityORnek\obj\Debug\EntityORnek.exe
+D:\BTKAKADEMİ\Projeler\Murat Yücedağ\Entity Framework\EntityORnek\obj\Debug\EntityORnek.pdb
